@@ -1,1 +1,1 @@
-# assistant
+# This is your personal assistant.
